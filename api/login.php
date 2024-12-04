@@ -13,7 +13,7 @@
 
 <body class="h-100vh">
     <header class="container text-center p-2">
-        <a class="link-underline link-underline-opacity-0 text-black fs-5" href="../index.html">
+        <a class="link-underline link-underline-opacity-0 text-black fs-5" href="../">
             <span class="ga-maamli-regular bg-light-danger p-2 rounded-4">FullStack</span> Restaurante
         </a>
     </header>

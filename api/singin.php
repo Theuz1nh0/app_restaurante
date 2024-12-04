@@ -13,7 +13,7 @@
 
 <body class="h-100vh">
     <header class="container text-center p-2">
-        <a class="link-underline link-underline-opacity-0 text-black fs-5" href="../index.html">
+        <a class="link-underline link-underline-opacity-0 text-black fs-5" href="../">
             <span class="ga-maamli-regular bg-light-danger p-2 rounded-4">FullStack</span> Restaurante
         </a>
     </header>
@@ -23,7 +23,7 @@
             <div class="text-center">
                 <span class="fs-4 text"><strong>Cadastro</strong></span>
             </div>
-            <form class="mt-3" method="post" action="./restaurante_controller.php">
+            <form class="mt-3" method="post" action="https://backend-restaurante-eight.vercel.app/">
                 <div class="mb-3">
                     <label for="name" class="form-label">Nome completo:</label>
                     <input type="text" class="form-control" id="name" name="name">
